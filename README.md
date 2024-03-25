@@ -8,6 +8,9 @@
 
       Note I have 138gb ram.
 
+      github                                                                     
+      https://github.com/rogerjdeangelis/utl-load-an-entire-file-into-a-r-string 
+
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
     | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
